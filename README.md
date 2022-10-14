@@ -1,4 +1,4 @@
-# SQL-Queries
+# SQL-Data-Analysis
 This is the Repository made to showcase SQL Analysis made for different companies
 I have also added Business insights for the company
 Addind files in PDF Format and SQL
